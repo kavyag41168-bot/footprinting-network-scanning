@@ -48,9 +48,7 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Result:** The domain is registered through GoDaddy.com, LLC (IANA ID 146). It was created on 6 November 2019, last updated on 12 November 2025 and expires on 6 November 2027. The status flags clientDeleteProhibited, clientRenewProhibited and clientTransferProhibited are set. The registrant’s personal details are not shown, only the registrar’s abuse contact.
 
-**Why it matters:** Registration and expiry dates show how long the domain has existed and when it must be renewed. The registrar lock flags are a good security practice because they make unauthorised transfer or deletion harder. Domain ownership details help an attacker plan social-engineering or domain-hijacking attempts, so keeping registrant data private is useful.
-
-![Evidence figure 1](assets/figure-1.png)
+**Why it matters:** Registration and expiry dates show how long the domain has existed and when it must be renewed. The registrar lock flags are a good security practice because they make unauthorised transfer or deletion harder. Domain ownership details help an attacker plan social-engineering or domain-hijacking attempts, so keeping registrant data private is usefu
 
 *Figure 1: WHOIS output for networkwalks.com*
 
