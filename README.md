@@ -63,7 +63,7 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Why it matters:** Knowing the CMS, plugin and version lets an attacker search for known vulnerabilities in exactly those components. The finding is an exposure of information, not a confirmed vulnerability. The HTTP-to-HTTPS redirect and the HttpOnly cookie are positive controls.
 
-![Evidence figure 2](assets/figure-2.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/6a66a79c8f5c379c10722ec6ed3405cb46ed4819/whatweb%20screenshort.jpeg)
 
 *Figure 2: WhatWeb fingerprint of networkwalks.com*
 
