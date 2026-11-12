@@ -111,7 +111,7 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Why it matters:** These records map the hosting provider (HostGator), the mail setup and the cPanel environment. Disclosed BIND versions help an attacker look for matching DNS software issues. The SPF record ends in ~all (soft fail), which is weaker than -all against email spoofing. No DNSSEC means DNS answers are not cryptographically signed. The screenshot shows the first part of the output; the SRV list continues beyond the visible window.
 
-![Evidence figure 6](assets/figure-6.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/ff3f7c6d78cc175e667fcaaf8736c4cbf64924a7/dnsrecon%20screenshort.jpeg)
 
 *Figure 6: DNSRecon enumeration of networkwalks.com*
 
