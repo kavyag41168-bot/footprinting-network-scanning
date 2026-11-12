@@ -87,7 +87,7 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Why it matters:** The Link header confirms WordPress and shows the REST API endpoint, which an attacker can use to enumerate content. The caching headers disclose parts of the hosting stack. In the captured response I did not see HSTS, X-Frame-Options, X-Content-Type-Options or Content-Security-Policy headers; these are worth reviewing. The secure and HttpOnly cookie flags are good practice.
 
-![Evidence figure 4](assets/figure-4.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/1ce90ff28bea2805f7943ffff6bb403368363b9d/curl%20-I%20screen%20short.jpeg)
 
 *Figure 4: HTTP response headers from curl -I*
 
