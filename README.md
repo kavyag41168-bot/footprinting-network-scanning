@@ -138,7 +138,7 @@ For the second activity I used Zenmap (the Nmap graphical interface) to discover
 
 After the scan I opened the Topology tab, which draws all 91 discovered hosts around the scanning machine. The legend can be switched on and the diagram saved with the Save Graphic button. Because there are so many hosts, the labels overlap in the default view; the Hosts Viewer, Fisheye and Controls options can be used to zoom in and read individual hosts.
 
-![Evidence figure 8](assets/figure-8.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/2ca15d686d6e655af4732014807bd67abfce0ba1/zen%20map%20%20topology.jpeg)
 
 *Figure 8: Zenmap Topology tab for 192.168.0.0/24*
 
