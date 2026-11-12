@@ -50,7 +50,8 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Why it matters:** Registration and expiry dates show how long the domain has existed and when it must be renewed. The registrar lock flags are a good security practice because they make unauthorised transfer or deletion harder. Domain ownership details help an attacker plan social-engineering or domain-hijacking attempts, so keeping registrant data private is usefu
 
-whois  tool screen short.jpeg
+
+https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/c8deb4631aeee44c9ad37e437764b0c4ebe635b2/whois%20%20tool%20screen%20short.jpeg
 
 *Figure 1: WHOIS output for networkwalks.com*
 
