@@ -13,7 +13,7 @@
 | Permission secured? | Yes |
 | Phases covered | Phase 1: Reconnaissance & Footprinting<br>Phase 2: Scanning & Network Discovery<br>Phases 3-5: In progress |
 
-https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/43ffb1b7bde20ad3393351214d46e7e1ed0a0966/Week2_Pentest_Report_Footprinting_Scanning%202.pdf
+[view the report](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/43ffb1b7bde20ad3393351214d46e7e1ed0a0966/Week2_Pentest_Report_Footprinting_Scanning%202.pdf)
 
 ## 1. Liability Disclaimer
 
