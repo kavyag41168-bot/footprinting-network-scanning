@@ -132,7 +132,7 @@ For the second activity I used Zenmap (the Nmap graphical interface) to discover
 | 192.168.0.248 | moto-g67-power-5G | None (100 filtered) | Motorola Mobility |
 | 192.168.0.251 | Tejaswini | None (100 filtered) | Cloud Network Technology |
 
-![Evidence figure 7](assets/figure-7.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/588ea46ba2cea2c200b2be2d5e6f78eb04b314cf/zenmap%20%20screenshort.jpeg)
 
 *Figure 7: Zenmap Nmap Output tab (nmap -T4 -F 192.168.0.0/24)*
 
