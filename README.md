@@ -75,7 +75,7 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Why it matters:** This gives the public IP address of the web service, which becomes the target for later port scanning. It also confirms that the lab machine sits on the 192.168.0.0/24 network used in Section 4.2.
 
-![Evidence figure 3](assets/figure-3.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/0c13d7c4be29373278b9966cb27a7e8db3809d94/nslookup%20screen%20short.jpeg)
 
 *Figure 3: nslookup resolving networkwalks.com*
 
