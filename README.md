@@ -13,6 +13,8 @@
 | Permission secured? | Yes |
 | Phases covered | Phase 1: Reconnaissance & Footprinting<br>Phase 2: Scanning & Network Discovery<br>Phases 3-5: In progress |
 
+https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/43ffb1b7bde20ad3393351214d46e7e1ed0a0966/Week2_Pentest_Report_Footprinting_Scanning%202.pdf
+
 ## 1. Liability Disclaimer
 
 I have performed these activities only on systems and devices for which I had secured written permission or which I own myself. All material in this report is for education and research purposes only. Do not use anything from it to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
