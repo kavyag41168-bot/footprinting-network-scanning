@@ -99,7 +99,7 @@ Reconnaissance was performed against networkwalks.com using six Kali Linux tools
 
 **Why it matters:** A WAF is a protective control, so its presence is positive. Knowing which WAF is deployed still tells an attacker what filtering to expect and how to tune later testing, so this is low-risk information disclosure.
 
-![Evidence figure 5](assets/figure-5.png)
+![image alt](https://github.com/kavyag41168-bot/footprinting-network-scanning/blob/b3eef69716ada5891ede20ee26913a9d35511314/wafwoof%20screenshort.jpeg)
 
 *Figure 5: wafw00f detecting ModSecurity*
 
